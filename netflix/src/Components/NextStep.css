@@ -1,0 +1,56 @@
+
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nextStep-logo {
+    margin-left: 50px;
+    margin-top: 30px;
+    color: red;
+    font-size: 50px;
+}
+
+
+.nextStep {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-right: 50px;
+}
+
+.section {
+    text-align: center;
+    margin-top: 100px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 38%;
+}
+
+.section h3 {
+    font-size: 32px;
+    margin: 10px auto;
+}
+
+.para {
+    font-size: 18px;
+    font-weight:inherit;
+    text-align: center;
+    margin: 10px auto;
+}
+.section button{
+    background-color: red;
+    border-style: none;
+    height: 45px;
+    border-radius: 10px;
+}
+.btn2{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+}

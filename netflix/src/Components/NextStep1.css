@@ -1,0 +1,37 @@
+.flex1{
+   width: 400px;
+   margin: 50px 0 0 400px ;
+}
+
+.para1{
+    margin: 12px auto;
+    font-size: large;
+    color: rgb(79, 76, 76);
+}
+
+.NextStep1Form{
+    display: flex;
+    flex-direction: column;
+}
+
+.NextStep1Form input{
+    height: 50px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.flex1 button{
+    width: 400px;
+    background-color: red;
+    border-style: none;
+    height: 45px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.btn3{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
